@@ -3,3 +3,10 @@ img{
     width: 300px;
     border-radius: 3px;
 }
+p{
+    margin: 10px ;
+    background-color: aqua;
+    border: 8px solid tomato;
+    border-radius: 2px;
+    
+}
